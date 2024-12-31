@@ -12,5 +12,9 @@ and select "Device Manager" and delete the following drivers in this exactly ord
 4) Microsoft Bluetooth Enumerator
 
 Now, turn off and turn on the Windows Bluetooth.
+Your QCY T13 will be paired automatically...
 
-Done!
+Now, Play an .mp3 file on Windows with your QCY T13 connected to the Windows bluetooth...
+Turn off the Windows Bluetooth and turn it on again!
+
+Done! The Stereo mode should be awasome, now!
